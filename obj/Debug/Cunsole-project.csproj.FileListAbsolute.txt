@@ -1,0 +1,7 @@
+C:\Users\Nazarr\source\C#\Cunsole-project\bin\Debug\Cunsole-project.exe.config
+C:\Users\Nazarr\source\C#\Cunsole-project\bin\Debug\Cunsole-project.exe
+C:\Users\Nazarr\source\C#\Cunsole-project\bin\Debug\Cunsole-project.pdb
+C:\Users\Nazarr\source\C#\Cunsole-project\obj\Debug\Cunsole-project.csproj.AssemblyReference.cache
+C:\Users\Nazarr\source\C#\Cunsole-project\obj\Debug\Cunsole-project.csproj.CoreCompileInputs.cache
+C:\Users\Nazarr\source\C#\Cunsole-project\obj\Debug\Cunsole-project.exe
+C:\Users\Nazarr\source\C#\Cunsole-project\obj\Debug\Cunsole-project.pdb
